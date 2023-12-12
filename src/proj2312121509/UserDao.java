@@ -3,7 +3,7 @@ package proj2312121509;
 public class UserDao {
 	
 	public static void world() {
-		System.out.println("world");
+		System.out.println("world!");
 	}
 	
 	public static void hello() {
@@ -13,7 +13,7 @@ public class UserDao {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("made by master");
+		System.out.println("remote modification made by master");
 		hello();
 		world();
 	}

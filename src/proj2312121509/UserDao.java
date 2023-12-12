@@ -3,18 +3,18 @@ package proj2312121509;
 public class UserDao {
 	
 	public static void world() {
-		System.out.println("world method");
+		System.out.println("world");
 	}
 	
 	public static void hello() {
-		System.out.println("hello method");
+		System.out.print("hello ");
 	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("made by iss53");
-		
-		System.out.print("hello iss54 -> master");
+		System.out.println("made by master");
+		hello();
+		world();
 	}
 
 }

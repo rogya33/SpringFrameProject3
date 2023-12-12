@@ -14,7 +14,7 @@ public class UserDao {
 		// TODO Auto-generated method stub
 		System.out.println("made by iss53");
 		
-		System.out.print("hello world");
+		System.out.print("hello master");
 	}
 
 }

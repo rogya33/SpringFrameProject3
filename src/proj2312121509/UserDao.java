@@ -13,7 +13,7 @@ public class UserDao {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("remote modification made at local repository!!!!");
+		System.out.println("i want to make conflict problem!");
 		hello();
 		world();
 	}
